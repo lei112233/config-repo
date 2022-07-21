@@ -15,4 +15,4 @@ eureka:
       defaultZone: http://eureka01:8761/eureka/,http://eureka02:8762/eureka/
 
 # 自定义配置
-name: order-service-prod
+name: order-service-prod-021
