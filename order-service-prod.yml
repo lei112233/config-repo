@@ -15,5 +15,5 @@ eureka:
       defaultZone: http://eureka01:8761/eureka/,http://eureka02:8762/eureka/
 
 # 自定义配置
-name: order-service-prod-021000
-password: '{cipher}AQBg+iMJUEi4RmyXWzTe3OFuqkiRlFvnas8OPNsn4iEt4ZzQ5NckdTW7PJteFzR5toOBC2hBbYkl7M0Di1Kmcb/1y/uZGMhcP37pQaaE5AV2Tky4ZLOj8+9Aw1uWJtjdX1Oahf0BJ/R0ErPvHAQH2E/2Bko0Mv3fwIylEeO1+KBi0ZDBDpChWJXm8+772KaG72i9RyEF4S1xOoPY5UPpborMsT7XwuG3ufHHzxtxETkthYGzDU/smvgAqAFHfNDtCrRidY6czH/OyaRqCqMZrThPkf7w43qMGCsOZ1pIxY24cIyQPKIk/1oJjkkg0DAa2IANkZR5miwGSQYVR9L7TxoOmkPlvunhkr/P7X+Peh9Igk6nSkfVz5XKSqptTy2hCOc='
+name: order-service-prod-1.0
+password: root
